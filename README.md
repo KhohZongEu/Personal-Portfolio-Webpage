@@ -1,6 +1,6 @@
 # Personal Portfolio Website using React
 
-- [Inspo](# Personal Portfolio Website using React)
+- [Inspo](https://beautifulpress.net/website/cool-club/)
 
 ## React + Vite
 
