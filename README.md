@@ -1,5 +1,9 @@
 # Personal Portfolio Website using React
 
+## Goals
+- Stay below 200MB of memory usage for each page
+- Responsive
+
 - [Inspo](https://beautifulpress.net/website/cool-club/)
 
 ## React + Vite
